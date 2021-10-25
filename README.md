@@ -1,3 +1,3 @@
 # hello-world
 Elder quest
-Está programado en phyton y solo debes ejecutar el archivo mame.py
+Está programado en phyton y solo debes ejecutar el archivo name.py
